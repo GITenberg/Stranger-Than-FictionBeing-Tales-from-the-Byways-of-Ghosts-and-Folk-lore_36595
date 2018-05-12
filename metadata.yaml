@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38376'
     url: http://www.gutenberg.org/2009/agents/38376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36595#Stranger-Than-FictionBeing-Tales-from-the-Byways-of-Ghosts-and-Folk-lore
 gutenberg_issued: '2011-07-04'
 gutenberg_type: Text
 identifiers:
