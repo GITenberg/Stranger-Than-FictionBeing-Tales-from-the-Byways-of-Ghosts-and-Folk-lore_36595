@@ -1,0 +1,25 @@
+_repo: Stranger-Than-FictionBeing-Tales-from-the-Byways-of-Ghosts-and-Folk-lore_36595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewes, Mary L.
+    gutenberg_agent_id: '38376'
+    url: http://www.gutenberg.org/2009/agents/38376
+description: ''
+gutenberg_issued: '2011-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36595'
+  lccn: '11027541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts'
+- !lcc 'BF'
+title: 'Stranger Than Fiction: Being Tales from the Byways of Ghosts and Folk-lore'
+url: http://www.gutenberg.org/ebooks/36595
